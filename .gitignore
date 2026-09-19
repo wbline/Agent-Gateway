@@ -1,0 +1,36 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# CodeGraph
+.codegraph/
+
+# Pi
+.pi/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Environment
+.env
+.env.local
+*.local
+
+# Logs
+*.log
+logs/
